@@ -1,0 +1,44 @@
+Ex-4.1
+Create a function that returns the amount of duplicate characters in a string. It will be case sensitive and spaces are included. If there are no duplicates, return 0.
+
+Ex-4.2
+Create a function/input that counts the integer's number of digits.
+Solve this without using strings.
+
+Example :
+	count(318) ➞ 3
+	count(-92563) ➞ 5
+	count(4666) ➞ 4
+	count(-314890) ➞ 6
+	count(654321) ➞ 6
+	count(638476) ➞ 6
+
+Ex-4.3
+Given a list nums where each integer is between 1 and 100, return a sorted list containing only duplicate numbers from the given nums list
+
+Examples:
+	duplicate_nums([1, 2, 3, 4, 3, 5, 6]) ➞ [3]
+	duplicate_nums([81, 72, 43, 72, 81, 99, 99, 100, 12, 54]) ➞ [72, 81, 99]
+	duplicate_nums([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) ➞ None
+
+
+Ex-4.4
+Create a function/input that, given a number, returns the corresponding value of that index in the Fibonacci series.
+
+The Fibonacci Sequence is the series of numbers:
+
+1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+Examples:
+	fibonacci(3) ➞ 3
+	fibonacci(7) ➞ 21
+	fibonacci(12) ➞ 233
+
+Ex-4.5
+Create a function/input that returns the sum of all even elements in a 2D matrix.
+
+Examples
+	sum_of_evens([ [1, 0, 2], [5, 5, 7], [9, 4, 3] ]) ➞ 6   // 2 + 4 = 6
+	sum_of_evens([ [1, 1], [1, 1] ]) ➞ 0
+	sum_of_evens([ [42, 9], [16, 8] ]) ➞ 66
+	sum_of_evens([ [], [], [] ]) ➞ 0

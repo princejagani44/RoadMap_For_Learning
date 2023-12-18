@@ -1,0 +1,23 @@
+Learn Linux & Git basic command and Do execrise
+
+Ex-1.1
+Install Visual code and Github
+
+Ex-1.2
+Print Current Directory
+List all file in current directory
+Change Directory
+
+Ex-1.3
+Add new folder
+Delete directory or file
+Delete all file in the given directory
+Copy a file into another folder 
+
+Ex-1.4
+Zip and Unzip a folder or file 
+
+Ex-1.5
+Add file to git
+remove file from git
+rename the file from git

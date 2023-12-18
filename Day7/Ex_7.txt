@@ -1,0 +1,20 @@
+Ex-7.1
+i) Create a Program that takes a string (a random name). If the last character of the name is an "a", return True, otherwise return False.
+ii) Create a Program that takes a string (a random name). If the last and first character of the name is an "d", return True, otherwise return False.
+
+Ex-7.2
+Create a function that returns the selected filename from a path. Include the extension in your answer.
+
+Ex-7.3
+Write a function to replace all instances of character c1 with character c2 and vice versa.
+Examples:
+	double_swap("aabbccc", "a", "b") ➞ "bbaaccc"
+	double_swap("random w#rds writt&n h&r&", "#", "&") ➞ "random w&rds writt#n h#r#"
+	double_swap("128 895 556 788 999", "8", "9") ➞ "129 985 556 799 888"
+
+Ex-7.4
+i) Write a program to read json file and show in terminal.
+ii) Write a program to dump/write data in json file.
+
+Ex-7.5
+Import python program(previous OOP based calculator) and run in this program.

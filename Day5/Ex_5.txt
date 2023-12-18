@@ -1,0 +1,26 @@
+Ex-5.1
+Create a function that takes an angle in radians and returns the corresponding angle in degrees rounded to one decimal place.
+
+Ex-5.2
+Create a function that takes two numbers and a mathematical operator + - / * and will perform a calculation with the given numbers.
+
+Ex-5.3
+Given a function that accepts unlimited arguments, check and count how many data types are in those arguments. Finally return the total in a list.
+
+Ex-5.4
+Write a function that transforms a list of characters into a list of dictionaries, where:
+	The keys are the characters themselves.
+	The values are the ASCII codes of those characters.
+	example :
+		to_dict(["a", "b", "c"]) ➞ [{"a": 97}, {"b": 98}, {"c": 99}]
+
+		to_dict(["^"]) ➞ [{"^": 94}]
+
+		to_dict([]) ➞ []
+
+
+Ex-5.5
+Given an integer, create a function that returns the next prime. If the number is prime, return the number itself.
+
+Ex-5.6
+Create a function that takes a dictionary of student names and returns a list of student names in alphabetical order.
